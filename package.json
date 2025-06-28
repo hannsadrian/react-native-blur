@@ -1,11 +1,10 @@
 {
-  "name": "@react-native-community/blur",
+  "name": "react-native-blur-hannsadrian",
   "version": "4.4.1",
   "description": "React Native Blur component",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
-  "react-native": "src/index",
   "source": "src/index",
   "files": [
     "src",
